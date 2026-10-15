@@ -3,7 +3,7 @@ name: Publicar sitio en GitHub Pages
 on:
   push:
     branches:
-      - 'main-/(root)'
+      - main
   workflow_dispatch:
 
 permissions:
