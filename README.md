@@ -9,7 +9,7 @@ Sitio estático adaptable a computadoras y celulares, creado con HTML, CSS y Jav
 - `assets/logo.svg`: logo vectorial.
 
 ## GitHub Pages
-En Settings → Pages, selecciona publicar desde la rama principal y la carpeta raíz (`/(root)`). Las fotografías y fuentes externas requieren conexión a Internet.
+El sitio se publica automáticamente mediante GitHub Actions. En Settings → Pages, la fuente de publicación debe ser GitHub Actions. Las fotografías y fuentes externas requieren conexión a Internet.
 
 ## Formulario
 El formulario valida los campos en el navegador, pero no envía ni almacena información. Para recibir mensajes reales, debe conectarse a un servicio o servidor.
